@@ -2,9 +2,6 @@ package com.youedata.util.page;
 
 import java.util.List;
 
-/**
- * Created by Administrator on 2016/3/9 0009.
- */
 public class PageImplForJsp<T> extends PageImpl<T> {
 
     private String baseUrl;
